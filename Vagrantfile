@@ -18,7 +18,6 @@ def set_env vars
     HEREDOC
   end
 
-
   return command
 end
 
